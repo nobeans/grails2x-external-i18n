@@ -34,4 +34,5 @@
 # "temporary" build files
 /target
 
-
+.asscache
+web-app/WEB-INF/tld/*.tld
